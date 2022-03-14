@@ -19,4 +19,4 @@ int main()
 
     printf("O valor do desconto é %f e o valor é %f", desconto, resultado);
     return 0;
-}
+} // fim da main
