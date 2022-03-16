@@ -22,10 +22,10 @@ int main(){
 
     //desvio de fluxo com if .. else
     if(notaAluno >= MEDIA){
-        printf("O sortudo esta aprovado\n");
+        printf("O sortudo está aprovado\n");
     }
     else{
-    printf("Reprovado otário\n");
+    printf("O aluno estáreprovado\n");
     }
     return 0;
 }// fim da main

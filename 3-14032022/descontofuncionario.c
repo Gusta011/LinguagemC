@@ -17,7 +17,7 @@ int main(){
         printf("O valor final é %.2f\n", salarioFuncionario - (salarioFuncionario * 0.05));
     }
     else{
-        printf("Não tem desconto o buteco");
+        printf("Não tem desconto");
     }
     return 0;
 }// fim da main
