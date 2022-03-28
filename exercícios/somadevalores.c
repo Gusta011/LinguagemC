@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+//sistema de soma de valores
 void main(){
     
     int soma, num1, num2;
